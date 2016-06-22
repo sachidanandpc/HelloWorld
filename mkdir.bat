@@ -1,3 +1,4 @@
 c:
-cd F:\Scala
+F:
+cd Scala
 mkdir SachiTesting
